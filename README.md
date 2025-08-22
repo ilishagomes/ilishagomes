@@ -1,7 +1,9 @@
-# 👋 Ilisha Gomes
+# 👋 Hi, I'm Ilisha Gomes  
+💡 Electrical & Computer Engineering Student @ Rutgers | Passionate about AI, AR/VR, and Accessible Tech  
+
 
 ## 🎓 About Me
-Junior Electrical and Computer Engineering student at Rutgers University, passionate about designing innovative solutions that merge engineering, accessibility, and intelligent systems. I enjoy working on projects that challenge me to think across hardware and software while making technology impactful and user-friendly.
+Junior Electrical & Computer Engineering student at Rutgers University, driven to design and build solutions that merge hardware, software, and AI. Experienced in prototyping, circuit design, and working with cross-functional teams to bring impactful, user-focused technologies to life.
 
 ---
 
@@ -14,27 +16,41 @@ Junior Electrical and Computer Engineering student at Rutgers University, passio
 ---
 
 ## 🚀 Featured Projects
-- **Arduino Robotic Car**  
-  Personal project: Designed, built, and programmed a robotic car using Arduino for autonomous navigation and obstacle avoidance.
+- Arduino Robotic Car 🚗
+    - Built and programmed a robotic car for autonomous navigation using Arduino, showcasing skills in hardware integration, C programming, and obstacle avoidance algorithms.
 
-- **Accessible Toy Car Modification**  
-  A4A Club initiative: Modified a ride-on toy car to be accessible for children with special needs, integrating adaptive controls and safety features.
+- Accessible Toy Car Modification ♿
+    - Led a team through A4A Club to adapt a ride-on toy car for children with disabilities, integrating custom electronics, CAD components, and adaptive controls.
 
-- **Image Manipulation in C**  
-  Academic project: Implemented core image processing functions in C, including filtering, color transformations, and edge detection.
+- Image Manipulation in C 🖼️
+    - Implemented core image processing functions (add, subtract, scale, edge detection) in C, demonstrating algorithm design and computational efficiency.
 
-- **Snap AR Lens Externship**  
-  Externship with Snap: Developed augmented reality effects in Lens Studio, exploring interactive AR experiences for social media.
+- Snap AR Lens Externship ✨
+    - Created interactive AR filters in Lens Studio during Snap externship, applying AR/VR concepts and experimenting with AI-driven visual effects.
 
 ---
 
 ## 💡 Interests
-Artificial Intelligence • Augmented/Virtual Reality • MedTech • Fashion • Creative Technology Applications
+Exploring intersections of AI, AR/VR, MedTech, Fashion, and Creative Technology — with a passion for making systems not just functional, but accessible and engaging.
 
 ---
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ilisha-gomes/)
 - 📧 Email: ailishagomes@gmail.com
+
+---
+
+### ⚡ Tech Stack  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat&logo=autodesk)  
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat&logo=autodesk)  
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet)  
+![LLMs](https://img.shields.io/badge/-LLMs-ff69b4)  
+![AR/VR](https://img.shields.io/badge/-AR/VR-lightgrey)  
 
 ---
